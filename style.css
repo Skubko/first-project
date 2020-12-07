@@ -9,7 +9,7 @@ body, html {
   padding: 0 60px;
   min-height: 80px;
 }
-
+a {}
 .header_theme_dark {
   background-color: black;
   color: white;
