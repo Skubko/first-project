@@ -30,6 +30,8 @@ body, html {
   color: white;
 }
 
+
+
 .content {
   display: flex;
   flex-direction: column;
